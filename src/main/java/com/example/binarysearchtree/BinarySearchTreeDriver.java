@@ -52,10 +52,10 @@ public class BinarySearchTreeDriver {
         System.out.println();
         ((BinarySearchTree<Integer>) bst).printTopDownTree();
 
-        // bst.delete(8);
+        //bst.delete(8);
 
-        // System.out.println();
-        // ((BinarySearchTree<Integer>) bst).printTopDownTree();
+        //System.out.println();
+        //((BinarySearchTree<Integer>) bst).printTopDownTree();
       
     }
 
